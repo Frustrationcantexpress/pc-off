@@ -1,2 +1,2 @@
-# pc-off
-turn the pc off
+# Just run the thing dud
+It's to turn off your pc
